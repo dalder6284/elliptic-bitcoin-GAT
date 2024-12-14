@@ -5,4 +5,4 @@ An implementation for detecting illicit transactions in cryptocurrency networks,
 There is a Jupyter Notebook (`.ipynb`) file titled `AldereteDiego_BitcoinGAT.ipynb` in the main branch. The imports assume you have **PyTorch, Numpy, and Pandas** installead but create a way to install `torch_scatter`, `torch_sparse`, and `torch_geometric` given that you have the latest version of PyTorch installed. Make sure to download the data set from this [Kaggle page](https://www.kaggle.com/datasets/ellipticco/elliptic-data-set/data) and place it in the `datasets` folder. Other than that, the instructions should be pretty straightforward within the Jupyter notebook. 
 
 ### Contact
-Let me know if you have any questions at diego.alderetesanchez@yale.edu
+Let me know if you have any questions at diego.alderetesanchez@yale.edu.
