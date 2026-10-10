@@ -1,0 +1,8 @@
+torch
+torch_geometric
+pandas
+numpy
+matplotlib
+networkx
+scikit-learn
+jupyterlab
